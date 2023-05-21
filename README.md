@@ -15,7 +15,7 @@ All in one expressjs starter templates including mongoodb/mongoose.
 ## Getting Started
 ### Clone this repo
 ```
-git clone git@github.com:kunalkhanx/express-starter-template.git
+git clone https://github.com/kunalkhanx/express-starter-template.git
 ```
 ### Setup mongoodb
 1. Download Mongodb Community Server (zip file) from The [Mongodb Officical Website](https://www.mongodb.com/try/download/community).
